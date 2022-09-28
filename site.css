@@ -9,4 +9,19 @@ body {
     background-image: url(workspace-pic.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    height: 100%;
+}
+h1 {
+    color: white;
+    font-size: 5em;
+}
+.web_dev {
+    padding: 1rem 2rem;
+    border-radius: 300px;
+    font-weight: bold;
+}
+.cyber {
+    padding: 1rem 2rem;
+    border-radius: 300px;
+    font-weight: bold;
 }
